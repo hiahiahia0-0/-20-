@@ -1,2 +1,2 @@
-# -20-
+# InternetDatabase-IndividualAssignment
 本仓库存储南开大学20级互联网数据库开发课程的个人作业部分
